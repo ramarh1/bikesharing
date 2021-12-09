@@ -8,7 +8,7 @@ The purpose of this challenge is to create visualizations on Tableau that helps 
 ## Results
 
 ![Sheet 1](https://user-images.githubusercontent.com/88624677/145422188-3721e765-590c-42ea-873f-56af39729e6f.png)
-Desciption: This visualization shows the checkout time for Citibike users. The highest point would be the most common trip duration, which is 5 minutes.
+Description: This visualization shows the checkout time for Citibike users. The highest point would be the most common trip duration, which is 5 minutes.
 
 ![Sheet 2](https://user-images.githubusercontent.com/88624677/145422230-543588bd-57b4-40e5-a00b-43e55af99578.png)
 Description: As depicted by the graph, there are more male users than female users, and their checkout times or trip durations are mostly 5 and 6 minutes, respectively. The trip duration for unknown gender varies from 10-20 minutes.
