@@ -31,5 +31,3 @@ Description: This visualization shows us the most common ending locations for us
 
 ## Summary
 The results show us that we have mostly male subscribers who use the bike sharing app, the common duration for these trips is five minutes, and that the most busy time is 5pm-7pm on Thursday and also Friday. We could do a visualization that shows the top starting locations for customers who are not subscribed, to see if the locations are in tourist areas. Another future visualization could be checkout times for customers vs. subscribers.
-
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
